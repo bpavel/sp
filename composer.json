@@ -14,12 +14,6 @@
             ]
         ]
     },
-	"autoload": {
-        "files": [ "registration.php" ],
-        "psr-4": {
-            "Spicepay\\Custompaymentmethod\\": ""
-        }
-    },
     "authors": [
         {
             "name": "Bogdan",
