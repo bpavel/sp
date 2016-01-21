@@ -1,0 +1,24 @@
+{
+    "name": "spicepay/magento2",
+    "description": "Spicepay Magento 2",
+    "require": {
+        "magento/project-community-edition": "*"
+    },
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Spicepay/Custompaymentmethod/"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "Bogdan",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ]
+}
