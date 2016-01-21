@@ -14,7 +14,7 @@
     <system>
         <section id="payment">
             <group id="spicepay_custompaymentmethod" translate="label" type="text" sortOrder="50" showInDefault="1" showInWebsite="1" showInStore="1">
-                <label>Spicepay</label>
+                <label>Spicepay Bitcoin Payment Gateway</label>
                 <comment>
                     <![CDATA[<a href="https://www.spicepay.com/" target="_blank">Click here to sign up for Spicepay account</a>]]>
                 </comment>
